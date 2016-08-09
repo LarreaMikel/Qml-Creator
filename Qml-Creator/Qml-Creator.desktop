@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=Qml-Creator
+Exec=qmlscene %U Qml-Creator/Main.qml
+Icon=Qml-Creator/Qml-Creator.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

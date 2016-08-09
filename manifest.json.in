@@ -1,0 +1,17 @@
+{
+    "name": "qml-creator.larreamikel",
+    "description": "description of Qml-Creator",
+    "architecture": "@CLICK_ARCH@",
+    "title": "Qml-Creator",
+    "hooks": {
+        "Qml-Creator": {
+            "apparmor": "Qml-Creator/Qml-Creator.apparmor",
+            "desktop":  "Qml-Creator/Qml-Creator.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "Mikel Larrea <developer@larreamikel.com>",
+    "framework" : "ubuntu-sdk-15.04.6"
+}
+
+
